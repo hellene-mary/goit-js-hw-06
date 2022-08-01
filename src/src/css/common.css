@@ -22,3 +22,13 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.gallery li {
+  margin-right: 20px;
+}
