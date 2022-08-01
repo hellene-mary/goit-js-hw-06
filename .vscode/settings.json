@@ -1,4 +1,5 @@
 {
   "turboConsoleLog.logMessagePrefix": "",
-  "turboConsoleLog.delimiterInsideMessage": ""
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "liveServer.settings.port": 5501
 }
