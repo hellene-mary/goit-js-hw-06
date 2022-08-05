@@ -26,6 +26,7 @@ function createBoxes(amount) {
 
 function destroyBoxes() {
   boxesEl.innerHTML = '';
+  document.querySelector('input').value = 0;
 }
 
 btnCreateEl.addEventListener('click', createBoxes);
